@@ -18,8 +18,9 @@
 
 ## Projetos Destacados
 
-- Portfólio(link do projeto) - Um portfólio criado em html e css.   -- Ainda não coloquei
-- JARI(link do projeto) - Uma inscrição de um concurso da prefeitura de são paulo, feito em c# .net core 7.0, html, css e javascript -- ainda não coloquei
+- Portfólio(Meu portfólio) - Um portfólio criado em html e css. 
+- JARI- Uma inscrição de um concurso da prefeitura de são paulo, feito em c# .net core 7.0, html, css e javascript, e usando sql server-- ainda não coloquei
+  foi feito a página de inscrição e a página de gestão para administrar
 
 ## Contato
 
