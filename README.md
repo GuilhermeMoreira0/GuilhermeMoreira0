@@ -3,8 +3,8 @@
 
 ## Sobre Mim
 
-- 🌱 Atualmente aprendendo Segurança, criaçao de jogos em c# e Inglês.
-- 💼 Trabalhando como full stack e com banco de dados.
+- 🌱 Atualmente aprendendo nuvem, e inglês.
+- 💼 Trabalhando com C#, .net, html, css, javascript, sql server, report service.
 - 🎓 Graduando em ADS (Análise de desenvolvimento de sistemas) na faculdade impacta.
 - 🎓 Ensino Médio Completo.
 
